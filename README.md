@@ -46,7 +46,8 @@ return 0;
 }
 ```
 # OUTPUT
-![image](https://github.com/vidhyasrikachapalayam/Ex-9-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-/assets/119477817/167274d0-eeb6-4421-bd3e-a1c91a1ea9fd)
+![image](https://github.com/vidhyasrikachapalayam/Ex-9-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-/assets/119477817/9ffbc290-8c97-4eec-b400-5c19dd6cf9ba)
+
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
